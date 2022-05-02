@@ -1,1 +1,2 @@
-# tc-shell
+#!/bin/bash
+echo "Hello World"
